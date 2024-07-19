@@ -1,0 +1,5 @@
+from build_my_py.parsers.build import add_subparser_build
+from build_my_py.parsers.create import add_subparser_create
+from build_my_py.parsers.lint import add_subparser_lint
+from build_my_py.parsers.test import add_subparser_test
+from build_my_py.parsers.format import add_subparser_format
